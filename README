@@ -2,4 +2,8 @@ Hello World
 Hello again
 another hello
 brach
+<<<<<<< HEAD
 bash
+=======
+cigwin
+>>>>>>> origin/master
